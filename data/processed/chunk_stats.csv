@@ -1,0 +1,4 @@
+chunk_id,doc_id,title,chunk_type,token_count,page_start,page_end,section_path
+D01_S001_001,D01,Sample Data Integrity Policy,definition,391,1,1,Document Start
+D02_S001_001,D02,Sample Gmp Sop,definition,610,1,1,Document Start
+D03_S001_001,D03,Sample Validation Guideline,definition,347,1,1,Document Start
