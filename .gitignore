@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+indexes/faiss/index.faiss
+indexes/faiss/id_map.json
+indexes/bm25/bm25.pkl
+data/processed/*.jsonl
+data/processed/*.csv
+.streamlit/

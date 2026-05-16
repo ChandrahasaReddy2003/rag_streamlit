@@ -1,0 +1,29 @@
+1. Purpose
+This guideline describes lifecycle expectations for equipment qualification, process validation, cleaning validation, and continued process verification in a GMP manufacturing environment.
+
+2. Validation Lifecycle
+Validation is performed through a lifecycle approach that includes process design, qualification, process performance qualification, and continued process verification. The level of effort shall be based on product risk, process complexity, historical knowledge, and impact on patient safety.
+
+3. Equipment Qualification
+Equipment qualification shall demonstrate that equipment is suitable for intended use. Qualification may include design qualification, installation qualification, operational qualification, and performance qualification. Critical instruments must be calibrated before qualification execution.
+
+4. Process Validation
+Process validation means documented evidence that a process, operated within established parameters, can perform effectively and reproducibly to produce a medicinal product meeting predetermined specifications and quality attributes.
+
+5. Process Performance Qualification
+Process performance qualification shall confirm that the commercial manufacturing process performs as expected under routine conditions. The protocol must define acceptance criteria, sampling plan, critical process parameters, critical quality attributes, batch selection rationale, and deviation handling requirements.
+
+6. Continued Process Verification
+Continued process verification shall monitor process performance after validation approval. Process data shall be periodically reviewed to identify trends, variability, repeated deviations, and opportunities for control strategy improvement.
+
+7. Cleaning Validation
+Cleaning validation shall demonstrate that cleaning procedures can remove product residues, cleaning agents, and microbial contamination to acceptable limits. Acceptance criteria shall be scientifically justified and based on toxicological, pharmacological, or quality risk considerations.
+
+8. Change Control
+Changes to validated systems, equipment, processes, materials, or cleaning procedures shall be assessed through change control. The assessment must determine whether requalification, revalidation, additional testing, or document updates are required.
+
+9. Deviations During Validation
+Any deviation during validation execution must be documented and assessed for impact on the validity of the study. A validation deviation may require repeat testing, protocol amendment, additional sampling, or CAPA depending on the root cause and quality impact.
+
+10. Validation Report
+The validation report shall summarize executed activities, deviations, results, acceptance criteria, conclusions, and recommendations. The report must clearly state whether the process, equipment, or cleaning procedure is considered validated.

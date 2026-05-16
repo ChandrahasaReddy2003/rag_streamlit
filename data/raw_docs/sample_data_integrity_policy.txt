@@ -1,0 +1,29 @@
+1. Purpose
+This policy defines data integrity expectations for GMP records, computerized systems, laboratory instruments, and manufacturing documentation. The objective is to ensure that records are trustworthy, complete, accurate, and available throughout the required retention period.
+
+2. Scope
+This policy applies to paper records, electronic records, hybrid records, spreadsheets, laboratory systems, manufacturing execution systems, audit trails, and electronic signatures used to support GMP decisions.
+
+3. ALCOA+ Principles
+ALCOA+ means that data should be attributable, legible, contemporaneous, original, accurate, complete, consistent, enduring, and available. Each record must show who performed the activity, what was performed, when it was performed, and whether any correction or modification occurred.
+
+4. Computerized System Controls
+Computerized systems used for GMP activities shall be validated according to intended use and risk. User access must be controlled using unique user IDs. Shared accounts are not permitted for GMP activities. Administrator privileges shall be limited and periodically reviewed.
+
+5. Audit Trails
+Audit trails shall capture the creation, modification, deletion, and review of GMP data where technically possible. Audit trail review shall be performed based on risk and shall focus on critical data, unexpected changes, deleted results, repeated testing, and changes made outside normal process flow.
+
+6. Metadata
+Metadata refers to contextual information required to understand a GMP record. Examples include user ID, timestamp, instrument ID, method version, sample ID, sequence number, file path, and processing parameters. Metadata must be retained with the primary record when it is required to reconstruct or verify the activity.
+
+7. Data Review
+Data review shall include verification of completeness, accuracy, and consistency. Reviewers shall check for missing entries, unexplained changes, invalidated results, incomplete audit trail review, and inconsistency between source data and reported data.
+
+8. Record Corrections
+Corrections to paper records must preserve the original entry. Electronic corrections must be traceable through system audit trails or equivalent controls. Any correction that may impact product quality, safety, identity, strength, purity, or compliance must be evaluated through the deviation or investigation process.
+
+9. Backup and Retention
+Electronic GMP data must be backed up according to an approved backup schedule. Backup restoration shall be periodically tested. Records must remain readable and accessible throughout the retention period.
+
+10. Exceptions
+If a system does not have audit trail capability, a documented risk assessment must define compensating controls. Compensating controls may include procedural review, restricted access, independent verification, or additional reconciliation.

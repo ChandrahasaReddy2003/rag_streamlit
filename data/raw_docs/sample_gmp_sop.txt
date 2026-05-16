@@ -1,0 +1,40 @@
+1. Purpose
+This Standard Operating Procedure describes the minimum expectations for batch manufacturing, line clearance, deviation handling, and documentation control in a pharmaceutical manufacturing area. The procedure applies to operators, supervisors, quality assurance personnel, and engineering support staff involved in routine production activities.
+
+2. Scope
+This SOP applies to non-sterile solid dose manufacturing activities, including dispensing, blending, compression, coating, packaging, and reconciliation. It also applies to supporting activities such as equipment cleaning, logbook completion, and controlled document usage.
+
+3. Definitions
+Good Manufacturing Practice means the part of quality assurance that ensures products are consistently produced and controlled according to quality standards appropriate for their intended use. A batch record refers to the controlled document that captures all critical manufacturing instructions, checks, entries, signatures, and quality approvals for a batch.
+
+4. Roles and Responsibilities
+4.1 Production Operator
+The production operator shall perform the manufacturing step according to the approved batch record and current SOPs. The operator must verify equipment status, material identity, label details, and area cleanliness before starting the activity. The operator is responsible for recording entries contemporaneously and reporting abnormalities immediately.
+
+4.2 Production Supervisor
+The production supervisor shall ensure that trained personnel are assigned to each operation. The supervisor must verify that line clearance is completed before batch start and that deviations are raised when unplanned events occur. The supervisor is responsible for reviewing batch record completeness before quality review.
+
+4.3 Quality Assurance
+Quality assurance is responsible for independent verification of critical GMP activities. QA shall review deviations, approve batch record corrections, verify line clearance where required, and ensure that product disposition decisions are supported by documented evidence.
+
+5. Procedure
+5.1 Pre-Operation Checks
+Before the operation begins, the operator shall verify that the area is clean, free from previous product residues, and labelled with the correct status. Equipment must be checked for cleanliness, calibration status, and preventive maintenance status. Materials must be verified against the batch record, including material code, batch number, expiry date, and quantity.
+
+5.2 Line Clearance
+Line clearance shall be performed before starting a new batch, product, or campaign. The check must confirm that previous product labels, printed packaging materials, loose tablets, containers, and documents have been removed. Any discrepancy found during line clearance must be escalated to the supervisor and QA before proceeding.
+
+5.3 Manufacturing Execution
+The operator shall follow the approved sequence in the batch record. Critical process parameters such as mixing time, compression force, coating temperature, and in-process control frequency must be recorded as required. If actual values fall outside the approved range, the activity must be stopped and a deviation must be initiated.
+
+5.4 Deviation Handling
+Any unplanned departure from an approved instruction, specification, or expected process condition shall be treated as a deviation. The operator must immediately inform the supervisor and QA. The supervisor shall secure the area, segregate affected materials if required, and record the initial event details. QA shall assess potential product quality impact and determine whether investigation, CAPA, or additional testing is required.
+
+5.5 Documentation Practices
+All entries must be clear, accurate, legible, contemporaneous, original, and attributable. Corrections must be made by drawing a single line through the incorrect entry, entering the correct value, signing, dating, and providing a reason where required. Correction fluid, overwriting, backdating, and unsigned entries are not permitted.
+
+6. Exceptions
+If equipment failure occurs during processing, the batch must be placed on hold until quality impact is assessed. If a required trained operator is unavailable, the activity must not proceed unless an alternate trained person is assigned and documented.
+
+7. Records
+Completed batch records, equipment logbooks, line clearance checklists, cleaning records, and deviation reports shall be retained according to the site record retention schedule.
